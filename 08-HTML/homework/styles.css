@@ -1,0 +1,48 @@
+h1{
+    color: rgba(240, 208, 120, 0.842);
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:goldenrod;
+}
+h4{
+    text-align: center;
+    color: goldenrod;
+}
+.divClass{
+    text-align: center;
+    color: rgb(224, 218, 211);
+}
+img{
+    width: 800px;
+}
+#thirdDiv{
+    height: 1080px;
+    width: 800px;
+}
+#thirdDiv{
+    color: rgb(238, 157, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+#spanId{
+    font-size: 18px;
+}
+#spanId{
+    margin: 50px;
+}
+#thirdDiv{
+    padding: 50px;
+}
+#thirdDiv{
+    border: 1mm dashed darkorange;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.saborusa.com/wp-content/uploads/2021/02/5-comidas-tipicas-colombianas..._1.png.webp);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
